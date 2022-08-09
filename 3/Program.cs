@@ -1,4 +1,4 @@
-﻿Дмитрий Винниченко, [09.08.2022 17:20]
+﻿
 int numberA = new Random().Next(1, 100);
 Console.WriteLine(numberA);
 int numberB = new Random().Next(1, 100);
